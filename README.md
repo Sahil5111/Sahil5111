@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil5111&label=Profile%20views&color=0e75b6&style=flat" alt="sahil5111" /> </p>
 
-- 🔭 I’m currently working on **Mini project(2d rpg game)**
+<!-- - 🔭 I’m currently working on **Mini project(2d rpg game)** -->
 
-- 🌱 I’m currently learning **Express**
+<!-- - 🌱 I’m currently learning **Express** -->
 
 - 📫 How to reach me **sahilsingh7977@gmail.com**
 
